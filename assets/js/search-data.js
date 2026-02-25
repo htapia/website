@@ -448,10 +448,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile-shaking-face",
+          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile: :shaking face:',
           description: "",
-          section: "News",},{id: "news-comenzando-el-1o-de-febrero-de-este-2026y-hasta-el-31-de-enero-de-2027-estaré-disfrutando-de-un-año-sabático-sparkles-smile",
+          section: "News",},{id: "news-comenzando-el-1o-de-febrero-de-este-2026y-hasta-el-31-de-enero-de-2027-estaré-disfrutando-de-un-año-sabático-sparkles-smile-shaking-face-shaking",
           title: 'Comenzando el 1o de febrero de este 2026y hasta el 31 de enero...',
           description: "",
           section: "News",},{id: "news-se-buscan-estudiantes-interesados-en-realizar-su-servicio-social-o-estancias-profesionales-para-realizar-actividades-de-ciencia-y-analisis-de-datos-aplicada-a-problemas-reales-y-concretos-interesados-contactarme-via-el-qr-que-debe-aparecer-aqui",
