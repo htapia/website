@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Comenzando el 1o de febrero de este 2026y hasta el 31 de enero de 2027, estaré disfrutando de un año sabático :sparkles: :smile: :shaking face: :shaking:
+Comenzando el 1o de febrero de este 2026 y hasta el 31 de enero de 2027, estaré disfrutando de un año sabático :sparkles: :smile:

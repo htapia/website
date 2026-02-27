@@ -42,7 +42,7 @@ Adicionalmente, coordino proyectos de vinculación entre la academia y la indust
 
 ## Formación académica
 
-- Doctorado en Ingeniería Mecánica
+- Doctorado en Ingeniería Mecánica :smile:
 <p>Universidad Nacional Autónoma de México</p>
 
 - <p>Maestría en Ciencias Aplicadas</p>
@@ -53,4 +53,4 @@ Adicionalmente, coordino proyectos de vinculación entre la academia y la indust
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.-->
 
- :sparkles: 
+ :sparkles: :smile:
