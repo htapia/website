@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Adscripcioón</a>. Dirección, contacto y noticias frescas...
 
 profile:
   align: right
@@ -40,13 +40,15 @@ Adicionalmente, coordino proyectos de vinculación entre la academia y la indust
 - Interacciones y comportamiento en sistemas biológicos
 - Aplicaciones de ML e IA
 
-## Formación académica
 
-- Doctorado en Ingeniería Mecánica :smile:
+
+<!--
+## Formación académica
+* Doctorado en Ingeniería Mecánica :smile:
 <p>Universidad Nacional Autónoma de México</p>
 
-- <p>Maestría en Ciencias Aplicadas</p>
-<p>University of California, Davis</p>
+<p>Maestría en Ciencias Aplicadas</p>
+<p>University of California, Davis</p>-->
 
 
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/website/publications/) automatically.
